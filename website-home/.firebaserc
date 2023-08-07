@@ -1,0 +1,23 @@
+{
+  "projects": {
+    "default": "my-production-project-e7357",
+    "production": "my-production-project-e7357"
+  },
+  "targets": {
+    "my-production-project-e7357": {
+      "hosting": {
+        "production": [
+          "my-production-project-e7357"
+        ]
+      }
+    },
+    "my-production-project": {
+      "hosting": {
+        "production": [
+          "my-production-project-e7357"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
